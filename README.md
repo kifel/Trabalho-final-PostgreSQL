@@ -26,7 +26,7 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 
 ## ⌨ Como executar o projeto
 
-Gostaria de acessar e testar a aplicação ? basta clicar [aqui](https://kifel.github.io/DoctorCare/)
+É necessário a utilização de um cliente SQL para a execução do código
 
 --- 
 
