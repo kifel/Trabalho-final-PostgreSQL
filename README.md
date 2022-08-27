@@ -33,7 +33,7 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 ## 🛠️ Construído com
 
 * [Visual Studio Code](https://code.visualstudio.com/) - ferramenta de desenvolvimento
-* [DBeaver](https://dbeaver.io/) -cliente SQL
+* [DBeaver](https://dbeaver.io/) - cliente SQL
 
 --- 
 
