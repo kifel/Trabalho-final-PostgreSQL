@@ -3,7 +3,8 @@
 Projeto da disciplina da Residência em TIC | Serratec
 
 ![Badge em Desenvolvimento](https://img.shields.io/static/v1?label=STATUS&message=PROJETO%20FINALIZADO&color=GREEN&style=for-the-badge)
-
+ 
+ 
 --- 
 
 ## 📋 Índice
