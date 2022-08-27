@@ -44,6 +44,7 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 * **Moacyr Kennedy** - *Desenvolvimento do código* - [MoacyrKennedy](https://github.com/MoacyrKennedy)
 * **Vinicius Polletti** - *Desenvolvimento do código* - [ViniciusPolletti](https://github.com/ViniciusPolletti)
 * **Brenda Folly Toledo** - *Desenvolvimento do código* - [bft1993](https://github.com/bft1993)
+* **Luciano Maia** - *Desenvolvimento de código* - [LucianoMaiaJR](https://github.com/LucianoMaiaJR)
 
 --- 
  
