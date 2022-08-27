@@ -44,8 +44,6 @@ Gostaria de acessar e testar a aplicação ? basta clicar [aqui](https://kifel.g
 * **Moacyr Kennedy** - *Desenvolvimento do código* - [MoacyrKennedy](https://github.com/MoacyrKennedy)
 * **Vinicius Polletti** - *Desenvolvimento do código* - [ViniciusPolletti](https://github.com/ViniciusPolletti)
 
-* **Vale Ressaltar que o código foi desenvolvido na NLW Return da [@RocketSeat](https://github.com/Rocketseat)**
-
 --- 
  
 ## 🎁 Expressões de gratidão
