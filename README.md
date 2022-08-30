@@ -9,7 +9,7 @@ Projeto da disciplina da Residência em TIC | Serratec
 
 ## 📋 Índice
 
-- [Sobre](#projeto-final-doctorcare)
+- [Sobre](#projeto-final-banco-de-dados)
 - [Tecnologias utilizadas](#-tecnologias-utilizadas)
 - [Como executar o projeto](#-como-executar-o-projeto)
 - [Construído com](#%EF%B8%8F-construído-com)
